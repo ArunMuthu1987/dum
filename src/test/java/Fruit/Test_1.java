@@ -7,6 +7,6 @@ public class Test_1 {
 		System.out.println("Welcome to Chennai");
 		System.out.println("HI Arun");
 		System.out.println("AArav");
-		system.out.println("Geetha");
+		System.out.println("Geetha");
 	}
 }
